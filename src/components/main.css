@@ -1,0 +1,43 @@
+header {
+    background-color: #00353f;
+}
+
+.about {
+    background-image: url("../images/code-coding-computer-270373.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.experience {
+    background-image: url("../images/ai-artificial-intelligence-codes-247791.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.portfolio {
+    background-image: url("../images/architecture-bridge-dark-1635439.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.social {
+    background-image: url("../images/black-and-white-cars-city-6732.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+section {
+    margin-bottom: 5em;
+}
