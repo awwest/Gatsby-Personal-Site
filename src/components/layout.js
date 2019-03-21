@@ -30,9 +30,11 @@ const Layout = ({ children }) => (
         >
           <main>{children}</main>
           <footer>
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://www.gatsbyjs.org">Gatsby</a>
+            Icon made by <a style={{
+              textDecoration: 'none',
+              color: '#fff'
+            }} 
+            href="https://www.flaticon.com/authors/freepik">Freepik</a> from www.flaticon.com 
             
           </footer>
         </div>
