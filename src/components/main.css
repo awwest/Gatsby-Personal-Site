@@ -95,6 +95,12 @@ section.about .text-container {
     text-align: center;
 }
 
+@media screen and (max-width: 400px){
+    .xp-flex {
+        flex-direction: column;
+    }
+}
+
 .links-container {
     margin-top: 4em;
     display: grid;

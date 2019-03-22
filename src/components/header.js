@@ -16,14 +16,10 @@ const Header = ({ siteTitle }) => (
       top: 0,
       width: `100%`,
       zIndex: 5
-      // display: `flex`,
-      // justifyContent: `space-between`
     }}
   >
     <div
       style={{
-        // margin: `0 auto`,
-        // maxWidth: 960,
         display: `flex`,
         flexWrap: `wrap`,
         flexDirection: `row`,
