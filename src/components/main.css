@@ -124,6 +124,7 @@ section.about .text-container {
     color: #fff;
     border: 1px solid #fff;
     text-align: center;
+    min-width: 122px;
 }
 
 .social-link:hover {

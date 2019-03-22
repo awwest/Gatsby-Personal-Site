@@ -2,7 +2,7 @@ import React from "react";
 import searchImg from "../images/search.png";
 import wwwImg from "../images/www.png";
 import techImg from "../images/tech.png";
-import codingImg from "../images/coding.png";
+import codingImg from "../images/ideas.png";
 
 const exp = [{
   title: "Full Stack Web Development Assistant Instructor",
