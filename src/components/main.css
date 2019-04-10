@@ -112,7 +112,7 @@ section.about .text-container {
 
 @media screen and (max-width: 450px) {
     .links-container {
-        grid-template-columns: 45% 45%;
+        grid-template-columns: 100%;
     }
 }
 
