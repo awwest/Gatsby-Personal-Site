@@ -3,8 +3,15 @@ import searchImg from "../images/search.png";
 import wwwImg from "../images/www.png";
 import techImg from "../images/tech.png";
 import codingImg from "../images/ideas.png";
+import radioImg from "../images/control-panel.png";
 
 const exp = [{
+  title: "Software Engineer, Applications",
+  image: radioImg,
+  company: "RefleXion Medical",
+  date: "2019 - 2020",
+  description: ["Write Full Stack JavaScript applications","Create UI for medical radiotherapy machines","Follow best testing and design practices", "Angular, TypeScript, RxJS, NestJS, SCSS, MongoDB"]
+},{
   title: "Full Stack Web Development Assistant Instructor",
   image: wwwImg,
   company: "UCBerkeley Extension Boot Camp",
